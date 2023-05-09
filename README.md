@@ -9,10 +9,10 @@ See [Demo](https://www.google.com)
 <a href = "https://www.google.com/">Demo</a>
 
 
-##documentation
+## documentation
 
 
-###installation
+### installation
 
 ```shell
 $ git clone {repo url}
@@ -21,13 +21,13 @@ $ pip install -r requirements.txt
 ```
 
 
-###how to start
+### how to start
 
 ```shell
 $ python main.py
 ```
 
-###dependency
+### dependency
 
 - Python == 3.10
 - django == 3.0.0
